@@ -9,7 +9,7 @@ Lets connect on Linkedin "[here][linkedin]"
       <a href="https://github.com/tarekchaalan?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/tarekchaalan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow-GH&logoColor=white"/></a>
       <a href="https://www.linkedin.com/in/tarekchaalan/">
-         <img alt="followers" title="Follow me on Linkedin" src="https://custom-icon-badges.demolab.com/github/followers/tarekchaalan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Connect-Linkedin&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Linkedin" src="https://custom-icon-badges.demolab.com/github/followers/tarekchaalan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Connect-Linkedin&Color=white"/></a>
    </p>
 
 ---
