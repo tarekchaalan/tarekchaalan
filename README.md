@@ -10,8 +10,8 @@ Lets connect on Linkedin "[here][linkedin]"
          <img alt="Linkedin Profile" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue"/></a>
       <a href="https://github.com/tarekchaalan?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/tarekchaalan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/tarekchaalan?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/tarekchaalan?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://www.linkedin.com/in/tarekchaalan/">
+         <img alt="followers" title="Follow me on Linkedin" src="https://custom-icon-badges.demolab.com/github/followers/tarekchaalan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Connect-Linkedin&logoColor=white"/></a>
    </p>
 
 ---
