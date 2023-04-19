@@ -26,6 +26,8 @@ Lets connect on Linkedin "[here][linkedin]"
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
 
+---
+
 ### 📊 Stats
 
 ![Tarek's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarekchaalan&&show_icons=true&theme=dark#gh-dark-mode-only)
