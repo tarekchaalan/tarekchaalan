@@ -26,10 +26,13 @@ Lets connect on Linkedin "[here][linkedin]"
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
 
+### 📊 Stats
+
+![Tarek's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarekchaalan&show_icons=true&theme=gruvbox)
+
+[![Tarek's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarekchaalan&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/tarekchaalan/github-readme-stats#gh-dark-mode-only))
+
 #
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarekchaalan)](https://github.com/tarekchaalan/github-readme-stats&theme=gruvbox)
-
-#
 
 [linkedin]: https://www.linkedin.com/in/tarekchaalan/
