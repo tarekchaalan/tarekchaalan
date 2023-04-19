@@ -30,7 +30,7 @@ Lets connect on Linkedin "[here][linkedin]"
 
 ![Tarek's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarekchaalan&show_icons=true&theme=gruvbox)
 
-[![Tarek's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarekchaalan&layout=compact&show_icons=true&theme=dark#gruvbox)](https://github.com/tarekchaalan/github-readme-stats#gruvbox))
+[![Tarek's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarekchaalan&layout=compact&show_icons=true&theme=dark#gruvbox)](https://github.com/tarekchaalan/github-readme-stats#gruvbox)
 
 #
 
