@@ -28,4 +28,8 @@ Lets connect on Linkedin "[here][linkedin]"
 
 #
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarekchaalan)](https://github.com/tarekchaalan/github-readme-stats)
+
+#
+
 [linkedin]: https://www.linkedin.com/in/tarekchaalan/
