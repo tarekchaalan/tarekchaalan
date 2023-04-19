@@ -7,7 +7,7 @@ Lets connect on Linkedin "[here][linkedin]"
 
    <p align="left">
       <a href="https://www.linkedin.com/in/tarekchaalan/">
-         <img alt="followers" title="Follow me on Linkedin" src="https://custom-icon-badges.demolab.com/github/followers/tarekchaalan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Connect-Linkedin&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Linkedin" src="https://custom-icon-badges.demolab.com/github/followers/tarekchaalan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin-add&label=Connect-Linkedin&logoColor=white"/></a>
    </p>
 
 ---
