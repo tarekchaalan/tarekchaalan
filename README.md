@@ -31,8 +31,6 @@ Lets connect on Linkedin "[here][linkedin]"
 
 ### 📊 Stats
 
-![Tarek's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarekchaalan&&show_icons=true&theme=dark#gh-dark-mode-only)
-
 [![Tarek's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarekchaalan&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 #
