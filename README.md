@@ -2,8 +2,8 @@
 
 **``**
 
-Computer Science graduate who loves to work on projects in my free time. I enjoy building things from the ground up and solving real-life problems with code. I’m always looking for new challenges and ways to improve my skills. Some of my favorite programming languages include Python, C, C++, and Javascript. I also created a couple of websites using HTML, CSS, and Javascript. I like to work on projects that are both fun and challenging, such as building a chatbot, website, app, or creating a game. I like to set goals for myself and track my progress along the way. 
-Lets connect on [Linkedin][linkedin]
+I am a computer Science graduate who loves to work on projects in my free time. I enjoy building things from the ground up and solving real-life problems with code. I’m always looking for new challenges and ways to improve my skills. My favorite programming languages include Python, C, C++, and Javascript. I also created some websites using HTML, CSS, and Javascript. I like to work on fun and challenging projects, such as building a chatbot, website, app, or game. I like to set goals for myself and track my progress along the way. 
+Let's connect on [Linkedin][linkedin]
 
 ---
 
